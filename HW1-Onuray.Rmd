@@ -1,0 +1,17 @@
+---
+title: "Onuray HW 1"
+output: html_document
+---
+```{r}
+
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+My name is Onuray. I am a senior business student in university and doing double major with Psychology.
+I am taking this class to learn R program because I am deeply interested in consumer behavior and psychology of marketing. Therefore acknowledge of R program would allow me turn data about my target group of customers, to information and strategies which I can use as a development of a business solution.
+
+https://resources.rstudio.com/rstudio-conf-2019/working-with-names-and-expressions-in-your-tidy-eval-code
